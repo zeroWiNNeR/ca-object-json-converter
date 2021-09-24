@@ -1,18 +1,6 @@
 {
-  "short_name": "Aleksei Vekovshinin",
-  "name": "Website by Aleksei Vekovshinin",
-  "icons": [
-    {
-      "src": "/static/ico/android-chrome-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "/static/ico/android-chrome-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ],
+  "short_name": ".object ot json converter",
+  "name": ".object ot json converter",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",

@@ -1,7 +1,7 @@
 {
-  "name": "portfolio-app-vue",
+  "name": "object-to-json-converter",
   "version": "1.0.0",
-  "description": "Portfolio web-application",
+  "description": "Converter",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --progress",
     "staging": "cross-env NODE_ENV=staging webpack",
@@ -14,20 +14,16 @@
   ],
   "private": true,
   "license": "MIT",
-  "author": "zeroWiNNeR <vekovshinin.aiu@gmail.com>",
-  "homepage": "https://github.com/zeroWiNNeR/my-portfolio-app-vue",
   "repository": {
     "type": "git",
     "url": "git@github.com:zeroWiNNeR/my-portfolio-app-vue.git"
   },
   "dependencies": {
     "@babel/polyfill": "^7.10.1",
-    "firebase-tools": "^8.4.3",
     "vue": "^2.6.11",
     "vue-resource": "^1.5.1",
     "vue-router": "^3.3.4",
-    "vuetify": "^2.3.2",
-    "vuex": "^3.4.0"
+    "vuetify": "^2.3.2"
   },
   "devDependencies": {
     "@babel/core": "^7.10.3",
@@ -62,6 +58,7 @@
     "sass": "^1.26.9",
     "sass-loader": "^8.0.2",
     "vue-loader": "^15.6",
+    "vue-multiselect": "^2.1.6",
     "vue-style-loader": "^4.1.2",
     "vue-template-compiler": "^2.6.11",
     "webpack": "^4.43.0",

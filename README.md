@@ -1,2 +1,2 @@
-# Сайт визитка
+# .object to json converter
 
